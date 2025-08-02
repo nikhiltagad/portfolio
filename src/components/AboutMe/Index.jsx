@@ -35,7 +35,7 @@ const AboutMe = () => {
             nameRef.current,
             { text: "" },
             {
-                text: "Shubham Gaikwad",
+                text: "Nikhil Tagad",
                 duration: 2,
                 delay: 1.5,
                 scrollTrigger: {
