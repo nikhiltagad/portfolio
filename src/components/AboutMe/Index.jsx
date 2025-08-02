@@ -74,7 +74,7 @@ const AboutMe = () => {
                 <p style={{ textAlign: 'justify' }}>
                     Having{' '}
                     <span style={{ fontWeight: 'bold' }}>
-                        interned at BEONEXPERT Technologies Pvt. Ltd.
+                        interned at Technologies Pvt. Ltd.
                     </span>
                     , I honed my skills working on real-world projects. Familiar with tools
                     like{' '}
