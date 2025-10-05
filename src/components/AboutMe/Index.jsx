@@ -86,8 +86,7 @@ const AboutMe = () => {
                 </p>
                 <ContactButton
                     content="Resume"
-                    <a href="nik.pdf" class="resume-button">Download Resume</a>
-
+                    Download Resume
                     icon={Download}
                     onClick={() => console.log('Contact button clicked!')}
                 />
