@@ -38,19 +38,19 @@ const internalLinks = [
 
 const externalLinks = [
     {
-        url: "https://www.linkedin.com/in/shubham2k24",
+        url: "https://www.linkedin.com/in/nikhil-tagad-a5641932b?",
         component: <Linkedin />,
     },
     {
-        url: "https://github.com/Shubham112004",
+        url: "https://github.com/nikhiltagad/portfolio",
         component: <GitHub />,
     },
     {
-        url: "mailto:shubham@example.com",
+        url: "nikhiltagad464@gmail.com",
         component: <Mail />,
     },
     {
-        url: "https://x.com/shubham2k4",
+        url: "https://x.com/Nikhil.2k03",
         component: <X />,
     },
 ];

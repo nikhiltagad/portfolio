@@ -86,7 +86,7 @@ const Heading = () => {
                     <h1>
                         Welcome
                         <br />
-                        Shubham's
+                        Nikhil's
                         <br />
                         Portfolio
                     </h1>

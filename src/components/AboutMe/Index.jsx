@@ -3,7 +3,7 @@ import { ScrollTrigger, TextPlugin } from 'gsap/all';
 import gsap from 'gsap';
 import ContactButton from '../ContactButton/Index';
 import { Download } from 'react-feather';
-import myPic from '../../assets/myPic.jpg';
+import myPic from '../../assets/NikhilPic.jpg';
 import nikPDF from '../../assets/nik.pdf';
 
 const AboutMe = () => {
