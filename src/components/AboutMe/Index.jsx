@@ -10,6 +10,8 @@ const AboutMe = () => {
 
     const handleResumeClick = () => {
         // Opens the PDF in a new tab
+        console.log('hi');
+        
         window.open(nikPDF, '_blank');
     }
 
