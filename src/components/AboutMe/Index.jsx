@@ -67,7 +67,7 @@ const AboutMe = () => {
                     <span style={{ fontWeight: 'bold' }}>Full Stack Developer</span>{' '}
                     passionate about building engaging and efficient web applications. With{' '}
                     <span style={{ fontWeight: 'bold' }}>
-                        expertise in React.js, Node.js, Express.js, and MongoDB
+                        expertise in  Core Java, Advance Java, SQL, PL SQL, React.js, Manual Testing, API Testing, Github
                     </span>
                     , I create seamless user experiences and scalable backend solutions.
                 </p>
