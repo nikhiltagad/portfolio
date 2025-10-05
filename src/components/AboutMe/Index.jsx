@@ -74,7 +74,7 @@ const AboutMe = () => {
                 <p style={{ textAlign: 'justify' }}>
                     Having{' '}
                     <span style={{ fontWeight: 'bold' }}>
-                        interned at Technologies Pvt. Ltd.
+                        interned at  Div and Section Technologies Pvt. Ltd.
                     </span>
                     , I honed my skills working on real-world projects. Familiar with tools
                     like{' '}
@@ -86,7 +86,8 @@ const AboutMe = () => {
                 </p>
                 <ContactButton
                     content="Resume"
-                    className="resume-button"
+                    <a href="resume.pdf"href='./nik.pdf' class="resume-button">Download Resume</a>
+
                     icon={Download}
                     onClick={() => console.log('Contact button clicked!')}
                 />
