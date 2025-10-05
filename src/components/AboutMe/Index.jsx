@@ -56,7 +56,7 @@ const AboutMe = () => {
             </div>
             <div className='col-md-6 aboutMe-content'>
                 <h1>
-                    Hi! My name is{' '}
+                    Hello! My name is{' '}
                     <span
                         style={{ color: '#c81d77', fontWeight: 'bold' }}
                         ref={nameRef}
