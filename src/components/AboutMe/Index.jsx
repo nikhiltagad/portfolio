@@ -97,7 +97,7 @@ const AboutMe = () => {
                     content="Resume"
                     Download Resume
                     icon={Download}
-                    onClick={() => handleResumeClick}
+                    onClick={() => console.log('hi')}
                 />
             </div>
         </div>
