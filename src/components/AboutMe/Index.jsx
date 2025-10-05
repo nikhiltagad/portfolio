@@ -85,9 +85,9 @@ const AboutMe = () => {
                     Let's create something amazing together!
                 </p>
                 <ContactButton
-                    content="Resume"
-                    <a href="resume.pdf"href='./nik.pdf' class="resume-button">Download Resume</a>
+                    <a href="resume.pdf" href='./nik.pdf' class="resume-button">Download Resume</a>
 
+                     className ="resume-button"
                     icon={Download}
                     onClick={() => console.log('Contact button clicked!')}
                 />
