@@ -4,8 +4,15 @@ import gsap from 'gsap';
 import ContactButton from '../ContactButton/Index';
 import { Download } from 'react-feather';
 import myPic from '../../assets/myPic.jpg';
+import nikPDF from '../../assets/nik.pdf';
 
 const AboutMe = () => {
+
+    const handleResumeClick = () => {
+        // Opens the PDF in a new tab
+        window.open(nikPDF, '_blank');
+    }
+
     const imgRef = useRef();
     const nameRef = useRef();
 
@@ -88,7 +95,7 @@ const AboutMe = () => {
                     content="Resume"
                     Download Resume
                     icon={Download}
-                    onClick={() => console.log('Contact button clicked!')}
+                    onClick={() => handleResumeClick}
                 />
             </div>
         </div>
